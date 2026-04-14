@@ -1,3 +1,11 @@
+---
+title: Uploader Bot V4
+emoji: 🤖
+colorFrom: red
+colorTo: orange
+sdk: docker
+pinned: false
+---
 ## 🚀 Uploader Bot V4
 
 
